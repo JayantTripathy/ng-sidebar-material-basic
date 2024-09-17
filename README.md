@@ -1,3 +1,5 @@
+Check the Live Demo here : https://jayanttripathy.github.io/ng-sidebar-material-basic/home
+
 <img src="https://jayanttripathy.com/wp-content/uploads/2024/09/ng-responsive-material-design-final-1-1536x768.jpg"/>
 # NgSidebarMaterial
 
