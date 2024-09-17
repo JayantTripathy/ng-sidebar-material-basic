@@ -1,3 +1,4 @@
+<img src="https://jayanttripathy.com/wp-content/uploads/2024/09/ng-responsive-material-design-final-1-1536x768.jpg"/>
 # NgSidebarMaterial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
